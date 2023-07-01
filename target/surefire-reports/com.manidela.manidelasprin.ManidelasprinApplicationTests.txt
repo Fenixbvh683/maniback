@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.manidela.manidelasprin.ManidelasprinApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 29.278 s - in com.manidela.manidelasprin.ManidelasprinApplicationTests

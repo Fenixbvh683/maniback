@@ -1,0 +1,6 @@
+com\manidela\manidelasprin\service\ISPersona.class
+com\manidela\manidelasprin\controller\CPersona.class
+com\manidela\manidelasprin\ManidelasprinApplication.class
+com\manidela\manidelasprin\repository\RPersona.class
+com\manidela\manidelasprin\model\Persona.class
+com\manidela\manidelasprin\service\SPersona.class
